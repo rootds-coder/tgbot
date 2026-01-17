@@ -1,0 +1,7 @@
+python-telegram-bot==22.4
+pyrogram==2.0.106
+tgcrypto==1.2.5
+pytgcalls==2.0.0
+yt-dlp==2025.12.8
+spotipy==2.25.2
+Pillow==10.4.0
